@@ -9,9 +9,8 @@ class Solution {
 
         list.addAll(map.entrySet());
         Collections.sort(list, (a,b)->b.getValue()- a.getValue());
-        for(int i = 0;i<k;i++){
-            ans[i] = list.getFirst().getKey();
-            list.removeFirst();
+        for(int i = 0; i < k; i++){
+            ans[i] = list.get(i).getKey();
         }
         return ans;
     }
