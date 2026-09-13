@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0039-combination-sum) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
