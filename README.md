@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parthsingh1146/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parthsingh1146/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/parthsingh1146/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
