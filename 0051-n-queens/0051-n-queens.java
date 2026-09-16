@@ -14,11 +14,7 @@ class Solution {
         if(colIndex >=n){
             List<String> list = new ArrayList<>();
             for(int i = 0;i<n;i++){
-                String s = "";
-                for(int j = 0;j<n;j++){
-                    s = s + board[i][j];
-                }
-                list.add(s);
+                list.add(new String(board[i]));
             }
             ans.add(list);
             return;
