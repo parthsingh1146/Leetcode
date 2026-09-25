@@ -95,8 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
