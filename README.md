@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/parthsingh1146/Leetcode/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parthsingh1146/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parthsingh1146/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parthsingh1146/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthsingh1146/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
