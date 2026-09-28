@@ -1,15 +1,19 @@
 class Solution {
     public int maxProduct(int n) {
         int temp = n;
-        ArrayList<Integer> list = new ArrayList<>();
-        while(temp >0){
+        int max = 0;
+        int secMax = 0;
+        while(temp > 0){
             int r = temp % 10;
-            list.add(r);
+            if(r > max){
+                secMax = max;
+                max = r;
+            }
+            else if ( r >= secMax){
+                secMax = r;
+            }
             temp = temp/10;
         }
-        int max = Collections.max(list);
-        list.remove(Integer.valueOf(max)); 
-        int secMax = Collections.max(list);
         return max * secMax;
     }
 }
