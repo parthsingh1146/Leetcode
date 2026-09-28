@@ -20,8 +20,7 @@ class Solution {
         if(list2 == null){
             return list1;
         }
-
-        ListNode head = new ListNode();
+        ListNode head;
         // find head
         if(list1.val <= list2.val){
             head = list1;
