@@ -32,31 +32,22 @@ class Solution {
         }
         return true;
     }
-    ListNode reverseList(ListNode midNode) {
-        // if zero or 1 elemnt in list
-        if(midNode == null || midNode.next == null){
-            return midNode;
+    ListNode reverseList(ListNode head2){
+        if(head2 == null || head2.next == null){
+            return head2;
         }
-        // logic
-        ListNode prev = midNode;
-        ListNode curr = prev.next;
-        ListNode agla = curr.next;
-        while(agla != null){
-            curr.next = prev;
-            if(prev == midNode){
-                prev.next = null;
-            }
-            prev = curr;
-            curr = agla;
-            agla = agla.next;
+        ListNode prevNode = head2;
+        ListNode currNode = prevNode.next;
+        ListNode nextNode = currNode.next;
+        prevNode.next = null;
+        while(nextNode != null){
+            currNode.next = prevNode;
+            prevNode = currNode;
+            currNode = nextNode;
+            nextNode = nextNode.next;
         }
-        // for last two nodes
-        curr.next = prev;
-        // if list have just two elements
-        if(prev == midNode){
-            prev.next = null;
-        }
-        midNode = curr;
-        return midNode;
+        currNode.next = prevNode;
+        head2 = currNode;
+        return head2;
     }
 }
