@@ -13,7 +13,6 @@ class Solution {
         if(head== null || head.next == null){
             return head;
         }
-        // find size
         ListNode sizeWala = head;
         int size = 0;
         while(sizeWala != null){
@@ -21,16 +20,22 @@ class Solution {
             sizeWala = sizeWala.next;
         }
         k = k % size;
-        for(int i = 1;i<=k;i++){
-            ListNode temp = head;
-            while(temp.next.next != null){
-                temp = temp.next;
-            }
-            ListNode newNode = temp.next;
-            temp.next = null;
-            newNode.next = head;
-            head = newNode;
+        if(k == 0){
+            return head;
         }
+        int pos = size - k;
+        ListNode temp1 = head;
+        for(int i = 1;i<= pos -1 ;i++){
+            temp1 = temp1.next;
+        }
+        ListNode temp2head = temp1.next;
+        temp1.next = null;
+        ListNode temp2 = temp2head;
+        while(temp2.next!= null){
+            temp2 = temp2.next;
+        }
+        temp2.next = head;
+        head = temp2head;
         return head;
     }
 }
