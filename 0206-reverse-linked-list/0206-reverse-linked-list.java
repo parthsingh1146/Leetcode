@@ -10,31 +10,23 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if(head == null || head.next == null){
-            return head;
-        }
-        ListNode prevNode = head;
-        ListNode currNode = prevNode.next;
-        ListNode nextNode = currNode.next;
-        prevNode.next = null;
-        // while(nextNode != null){
+        ListNode prevNode = null;
+        ListNode currNode = head;
+        // while(currNode != null){
+        //     ListNode nextNode = currNode.next;
         //     currNode.next = prevNode;
         //     prevNode = currNode;
         //     currNode = nextNode;
-        //     nextNode = nextNode.next;
         // }
-        // currNode.next = prevNode;
-        // head = currNode;
-        // return head;
-        return solve(prevNode,currNode,nextNode);
+        // return prevNode;
+        return solve(prevNode,currNode);
     }
-    ListNode solve(ListNode prevNode, ListNode currNode, ListNode nextNode){
-        // base case
-        if(nextNode == null){
-            currNode.next = prevNode;
-            return currNode;
+    ListNode solve(ListNode prevNode, ListNode currNode){
+        if(currNode == null){
+            return prevNode;
         }
+        ListNode nextNode = currNode.next;
         currNode.next = prevNode;
-        return solve(currNode,nextNode,nextNode.next);
+        return solve(currNode,nextNode);
     }
 }
