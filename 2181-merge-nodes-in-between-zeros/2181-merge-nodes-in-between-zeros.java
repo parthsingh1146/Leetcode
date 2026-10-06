@@ -10,19 +10,41 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        ListNode temp = head.next;
-        ListNode ansHead = new ListNode(0);
+        ListNode ansHead = null;
         ListNode ansTemp = ansHead;
-        while(temp.next!= null){
-            if(temp.val!=0){
-                ansTemp.val += temp.val;
+        ListNode temp = head.next;
+        while(temp.next!=null){
+            if(temp.val != 0){
+                if(ansHead == null){
+                    ansHead = temp;
+                    ansTemp = ansHead;
+                }
+                else{
+                    ansTemp.val += temp.val;
+                }
+                temp = temp.next;
             }
             else{
-                ansTemp.next = new ListNode(0);
+                ansTemp.next = temp;
                 ansTemp = ansTemp.next;
+                temp = temp.next;
             }
-            temp = temp.next;
         }
+        ansTemp.next = null;
         return ansHead;
+        // ListNode temp = head.next;
+        // ListNode ansHead = new ListNode(0);
+        // ListNode ansTemp = ansHead;
+        // while(temp.next!= null){
+        //     if(temp.val!=0){
+        //         ansTemp.val += temp.val;
+        //     }
+        //     else{
+        //         ansTemp.next = new ListNode(0);
+        //         ansTemp = ansTemp.next;
+        //     }
+        //     temp = temp.next;
+        // }
+        // return ansHead;
     }
 }
