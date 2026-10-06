@@ -22,7 +22,7 @@ class Solution {
         if(curr == null){
             return head.next;
         }
-        while(curr.next!=null){
+        while(curr != null && curr.next!=null){
             curr = curr.next;
             prev = prev.next;
         }
