@@ -14,23 +14,22 @@ class Solution {
             head = null;
             return head;
         }
-        ListNode temp = head;
-        int size = 0;
-        while(temp != null){
-            size++;
-            temp = temp.next;
+        ListNode prev = head;
+        ListNode curr = head;
+        for(int i = 1;i<=n;i++){
+            curr = curr.next;
         }
-        temp = head;
-        int pos = size - n;
-        if(pos == 0){
-            head = head.next;
-            return head;
+        if(curr == null){
+            return head.next;
         }
-        for(int i = 1;i<= pos - 1;i++){
-            temp = temp.next;
+        while(curr.next!=null){
+            curr = curr.next;
+            prev = prev.next;
         }
-        ListNode nextNode = temp.next.next;
-        temp.next = nextNode;
+        if(prev.next == head){
+            return head.next;
+        }
+        prev.next = prev.next.next;
         return head;
     }
 }
