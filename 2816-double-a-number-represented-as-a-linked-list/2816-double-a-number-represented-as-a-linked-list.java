@@ -15,19 +15,17 @@ class Solution {
         // multiply each element by 2 , forward carry to nextelement
         ListNode temp = reversedList;
         int carry = 0;
+        ListNode prev = null;
         while(temp!=null){
             int value = temp.val * 2 + carry;
             temp.val = value % 10;
             carry = value/10;
+            prev = temp;
             temp = temp.next;
         }
         if(carry!=0){
             ListNode carrNode = new ListNode(carry);
-            temp = reversedList;
-            while(temp.next != null){
-                temp = temp.next;
-            }
-            temp.next = carrNode;
+            prev.next = carrNode;
         }
         // reverse list
         ListNode ans = reverse(reversedList);
