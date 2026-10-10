@@ -16,11 +16,21 @@ class Solution {
         if(lists.length == 1){
             return lists[0];
         }
-        ListNode merged = mergeTwoLists(lists[0],lists[1]);
-        for(int i = 2;i<lists.length;i++){
-            merged = mergeTwoLists(merged,lists[i]);
+        int start = 0;
+        int end = lists.length-1;
+        return divisions(lists,start,end);
+    }
+    ListNode divisions(ListNode[] lists, int start, int end){
+        if(start == end){
+            return lists[start];
         }
-        return merged;
+        if(end - start == 1){
+            return mergeTwoLists(lists[start],lists[end]);
+        }
+        int mid = (start + end)/2;
+        ListNode divi1 = divisions(lists,start,mid);
+        ListNode divi2 = divisions(lists,mid+1,end);
+        return mergeTwoLists(divi1,divi2);
     }
     ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
