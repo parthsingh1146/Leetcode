@@ -24,9 +24,6 @@ class Solution {
         if(start == end){
             return lists[start];
         }
-        if(end - start == 1){
-            return mergeTwoLists(lists[start],lists[end]);
-        }
         int mid = (start + end)/2;
         ListNode divi1 = divisions(lists,start,mid);
         ListNode divi2 = divisions(lists,mid+1,end);
