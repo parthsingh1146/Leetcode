@@ -24,22 +24,9 @@ class Solution {
         while(postTemp!=null){
             index++;
             // local maxima
-            if(temp.val > preTemp.val && temp.val > postTemp.val){
-                if(prevIndex != -1){
-                    int diff = index - prevIndex;
-                    if(diff < minDiff){
-                        minDiff = diff;
-                    }
-                }
-                prevIndex = index;
-                if(startingIndex != -1){
-                    maxDiff = index - startingIndex;
-                }else{
-                    startingIndex = index;
-                }
-            }
-            // local minima
-            else if(temp.val < preTemp.val && temp.val < postTemp.val){
+            if((temp.val > preTemp.val && temp.val > postTemp.val) ||
+             (temp.val < preTemp.val && temp.val < postTemp.val))
+             {
                 if(prevIndex != -1){
                     int diff = index - prevIndex;
                     if(diff < minDiff){
