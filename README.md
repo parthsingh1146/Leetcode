@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parthsingh1146/Leetcode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/parthsingh1146/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parthsingh1146/Leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parthsingh1146/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parthsingh1146/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/parthsingh1146/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/parthsingh1146/Leetcode/tree/master/0086-partition-list) |
