@@ -1,37 +1,29 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-
-        int[] arr = new int[m];
-
-        for (int i = 0; i < m; i++) {
-            arr[i] = nums1[i];
-        }
-
-        int indexI = 0;
-        int indexJ = 0;
-        int index = 0;
-
-        while (indexI < m && indexJ < n) {
-            if (arr[indexI] <= nums2[indexJ]) {
-                nums1[index] = arr[indexI];
-                indexI++;
-            } else {
-                nums1[index] = nums2[indexJ];
-                indexJ++;
+        int[] newArray = new int[m+n];
+        int index1 = 0;
+        int index2 = 0;
+        int i = 0;
+        while(index1 < m && index2 < n){
+            // compare nums1 and nums2 val
+            if(nums1[index1] <= nums2[index2]){
+                newArray[i] = nums1[index1];
+                index1++;
             }
-            index++;
+            else{
+                newArray[i] = nums2[index2];
+                index2++;
+            }
+            i++;
+        };
+        while(index1 < m){
+            newArray[i++] = nums1[index1++];
         }
-
-        while (indexI < m) {
-            nums1[index] = arr[indexI];
-            indexI++;
-            index++;
+        while(index2 < n){
+            newArray[i++] = nums2[index2++];
         }
-
-        while (indexJ < n) {
-            nums1[index] = nums2[indexJ];
-            indexJ++;
-            index++;
+        for(int j = 0;j<newArray.length;j++){
+            nums1[j] = newArray[j]; 
         }
     }
 }
