@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/parthsingh1146/Leetcode/tree/master/0704-binary-search) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parthsingh1146/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthsingh1146/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Divide and Conquer
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthsingh1146/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parthsingh1146/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
