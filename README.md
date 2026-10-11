@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/parthsingh1146/Leetcode/tree/master/0704-binary-search) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthsingh1146/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/parthsingh1146/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
