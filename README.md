@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/parthsingh1146/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/parthsingh1146/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/parthsingh1146/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/parthsingh1146/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
