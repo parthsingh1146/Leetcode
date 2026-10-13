@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/parthsingh1146/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parthsingh1146/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parthsingh1146/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/parthsingh1146/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
