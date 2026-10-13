@@ -6,7 +6,7 @@ class Solution {
                 stack.push(ch);
                 continue;
             }
-            int v = stack.peek();
+            char v = stack.peek();
             if((ch == ')' && v == '(') || (ch == '}' && v == '{') || (ch == ']' && v == '[')){
                 stack.pop();
             }
