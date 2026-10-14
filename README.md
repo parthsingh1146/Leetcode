@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/parthsingh1146/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parthsingh1146/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthsingh1146/Leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/parthsingh1146/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
