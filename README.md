@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/parthsingh1146/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthsingh1146/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/parthsingh1146/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/parthsingh1146/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/parthsingh1146/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Backtracking
 |  |
 | ------- |
