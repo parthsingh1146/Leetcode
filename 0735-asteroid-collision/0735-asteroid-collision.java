@@ -14,22 +14,22 @@ class Solution {
             // Ab aayi pop ki baari (st.peek() > 0 && astro < 0)
             int absAstro = Math.abs(astro);
 
-            // 1. Pehle saare chhote positive asteroids ko destroy karo
+            // Pehle saare chhote positive asteroids ko destroy karo
             while (!st.isEmpty() && st.peek() > 0 && st.peek() < absAstro) {
                 st.pop();
             }
 
-            // 2. Agar barabar size ka positive asteroid mile, toh dono destroy honge
+            // Agar barabar size ka positive asteroid mile, toh dono destroy honge
             if (!st.isEmpty() && st.peek() == absAstro) {
                 st.pop();
             } 
-            // 3. Agar stack khaali ho gaya ya top pe negative asteroid hai, toh push karo
+            // Agar stack khaali ho gaya ya top pe negative asteroid hai, toh push karna hai
             else if (st.isEmpty() || st.peek() < 0) {
                 st.push(astro);
             }
         }
 
-        // Direct array me ulta bharo 
+        // insert stact into array in reverse order
         int[] ans = new int[st.size()];
         for (int i = st.size() - 1; i >= 0; i--) {
             ans[i] = st.pop();
