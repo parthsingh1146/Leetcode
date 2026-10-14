@@ -29,7 +29,7 @@ class Solution {
             }
         }
 
-        // Direct array me ulta bharo (ArrayList aur reverse ki zaroorat nahi)
+        // Direct array me ulta bharo 
         int[] ans = new int[st.size()];
         for (int i = st.size() - 1; i >= 0; i--) {
             ans[i] = st.pop();
