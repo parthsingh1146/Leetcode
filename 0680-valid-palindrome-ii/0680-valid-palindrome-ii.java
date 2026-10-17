@@ -1,14 +1,11 @@
 class Solution {
     boolean isPalin(String s, int i , int j){
-        String subs = s.substring(i,j+1);
-        int start = 0;
-        int end = subs.length() - 1;
-        while(start < end){
-            if(subs.charAt(start) != subs.charAt(end)){
+        while(i < j){
+            if(s.charAt(i) != s.charAt(j)){
                 return false;
             }
-            start++;
-            end--;
+            i++;
+            j--;
         }
         return true;
     }
