@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/parthsingh1146/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthsingh1146/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/parthsingh1146/Leetcode/tree/master/0704-binary-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/parthsingh1146/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/parthsingh1146/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthsingh1146/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthsingh1146/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthsingh1146/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/parthsingh1146/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
