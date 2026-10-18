@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parthsingh1146/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/parthsingh1146/Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parthsingh1146/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthsingh1146/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/parthsingh1146/Leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parthsingh1146/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/parthsingh1146/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parthsingh1146/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/parthsingh1146/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/parthsingh1146/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/parthsingh1146/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/parthsingh1146/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/parthsingh1146/Leetcode/tree/master/0735-asteroid-collision) |
