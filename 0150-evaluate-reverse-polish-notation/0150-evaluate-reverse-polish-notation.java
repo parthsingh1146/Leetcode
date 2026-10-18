@@ -27,16 +27,7 @@ class Solution {
                 st.push(val);
             }
             else{
-                int num = 0;
-                int sign = 1;
-                for(char ch : str.toCharArray()){
-                    if(ch == '-'){
-                        sign = -1;
-                        continue;
-                    }
-                    num = num * 10 + (ch - '0');
-                }
-                st.push(num * sign);
+                st.push(Integer.parseInt(str));
             }
         }
 
