@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/parthsingh1146/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/parthsingh1146/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parthsingh1146/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/parthsingh1146/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/parthsingh1146/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/parthsingh1146/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/parthsingh1146/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
