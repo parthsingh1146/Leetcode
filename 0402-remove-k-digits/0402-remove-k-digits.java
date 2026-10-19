@@ -1,22 +1,18 @@
 class Solution {
     public String removeKdigits(String num, int k) {
         Deque<Character> st = new ArrayDeque<>();
+        // if we have to remove all digits
         if(num.length() == k){
             return "0";
         }
+        // to remove some digits
         for(char ch : num.toCharArray()){
-            if(st.isEmpty() || st.peek() <= ch){
-                // push into stack
-                st.push(ch);
+            // if topvalue > curr value --> pop the top value
+            while(!st.isEmpty() && k > 0 && st.peek() > ch){
+                st.pop();
+                k--;
             }
-            else{
-                //st.peek() >= ch
-                while(!st.isEmpty() && k > 0 && st.peek() > ch){
-                    st.pop();
-                    k--;
-                }
-                st.push(ch);
-            }
+            st.push(ch);
         }
         StringBuilder ans = new StringBuilder();
         while(st.size() > k){
