@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/parthsingh1146/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/parthsingh1146/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/parthsingh1146/Leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/parthsingh1146/Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/parthsingh1146/Leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/parthsingh1146/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/parthsingh1146/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/parthsingh1146/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/parthsingh1146/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/parthsingh1146/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
