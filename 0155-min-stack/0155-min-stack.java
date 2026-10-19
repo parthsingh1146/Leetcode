@@ -18,7 +18,7 @@ class MinStack {
     }
 
     public void pop() {
-        int val = st.pop();
+        st.pop();
         minis.pop();
     }
     
