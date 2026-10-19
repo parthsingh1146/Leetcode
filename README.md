@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/parthsingh1146/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/parthsingh1146/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parthsingh1146/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/parthsingh1146/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthsingh1146/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -282,4 +283,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
