@@ -1,6 +1,7 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
+        
         // ARRAY TO STORE PREVIOUS SMALLEST INDEX FOR EACH ELEMENT
         int[] pse = new int[n];
         Deque<Integer> pseStack = new ArrayDeque<>();
