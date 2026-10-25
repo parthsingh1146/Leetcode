@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthsingh1146/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0303-range-sum-query-immutable](https://github.com/parthsingh1146/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/parthsingh1146/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/parthsingh1146/Leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/parthsingh1146/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/parthsingh1146/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/parthsingh1146/Leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
@@ -328,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/parthsingh1146/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/parthsingh1146/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
