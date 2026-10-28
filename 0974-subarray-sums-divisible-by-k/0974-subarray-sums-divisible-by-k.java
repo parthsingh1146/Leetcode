@@ -6,10 +6,7 @@ class Solution {
         int sum = 0;
         for(int i = 0;i<nums.length;i++){
             sum += nums[i];
-            int sumModK = sum % k;
-            if(sum < 0){
-                sumModK = ((sum % k) + k)%k;
-            }
+            int sumModK = ((sum % k) + k)%k;
             if(map.containsKey(sumModK)){
                 ans += map.get(sumModK);
             }
