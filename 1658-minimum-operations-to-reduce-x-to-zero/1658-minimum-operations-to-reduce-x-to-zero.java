@@ -7,9 +7,6 @@ class Solution {
             totalSum += element;
         }
         long target = totalSum - x ;
-        // Edge cases
-        if (target < 0) return -1;
-        if (target == 0) return n;
         // step 2: find len of maximum subarray whose sum = totalSum - x;
         long currSum = 0;
         int startIndex = 0;
