@@ -4,19 +4,12 @@ class Solution {
         int ans = 0;
         int i = 0;
         int j = people.length - 1;
-        while(i<j){
+        while(i<=j){
             if(people[i] + people[j] <= limit){
-                ans++;
                 i++;
-                j--;
             }
-            else{
-                ans++;
-                j--;
-            }
-        }
-        if(i == j){
             ans++;
+            j--;
         }
         return ans;
     }
