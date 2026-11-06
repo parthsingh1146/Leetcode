@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parthsingh1146/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthsingh1146/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/parthsingh1146/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/parthsingh1146/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/parthsingh1146/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0930-binary-subarrays-with-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthsingh1146/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthsingh1146/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthsingh1146/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Enumeration
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/parthsingh1146/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthsingh1146/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/parthsingh1146/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthsingh1146/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
