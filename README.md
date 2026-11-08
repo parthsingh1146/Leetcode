@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/parthsingh1146/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/parthsingh1146/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parthsingh1146/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/parthsingh1146/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parthsingh1146/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/parthsingh1146/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/parthsingh1146/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/parthsingh1146/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/parthsingh1146/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/parthsingh1146/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/parthsingh1146/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -422,4 +424,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/parthsingh1146/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/parthsingh1146/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/parthsingh1146/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/parthsingh1146/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
