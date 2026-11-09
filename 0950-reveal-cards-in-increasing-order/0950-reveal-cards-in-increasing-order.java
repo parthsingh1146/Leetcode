@@ -4,14 +4,14 @@ class Solution {
         Arrays.sort(deck);
         for(int i = deck.length - 1;i>=0;i--){
             if(!q.isEmpty()){
-                int v = q.poll();
-                q.offer(v);
+                int v = q.pollLast();
+                q.offerFirst(v);
             }
-            q.offer(deck[i]);
+            q.offerFirst(deck[i]);
         }
         int[] ans = new int[deck.length];
         for(int i = 0;i<deck.length;i++){
-            ans[i] = q.pollLast();
+            ans[i] = q.poll();
         }
         return ans;
     }
