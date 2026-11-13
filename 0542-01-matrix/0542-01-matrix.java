@@ -9,7 +9,6 @@ class Solution {
             }
         }
         boolean[][] done = new boolean[mat.length][mat[0].length];
-        // Arrays.fill(done,false);
         while(!queue.isEmpty()){
             int n = queue.size();
             for(int i = 0;i<n;i++){
@@ -19,33 +18,25 @@ class Solution {
 
                 int nr = row + 1;
                 int nc = col + 1;
-                if(row > 0 && mat[row - 1][col] == 1){
-                    if(!done[row-1][col]){
+                if(row > 0 && mat[row - 1][col] == 1 && !done[row-1][col]){
                     mat[row-1][col] = mat[row][col] + 1;
                     done[row-1][col] = true; 
                     queue.offer(new int[]{row-1,col});
-                    }
                 }
-                if(col > 0 && mat[row][col - 1] == 1){
-                    if(!done[row][col - 1]){
+                if(col > 0 && mat[row][col - 1] == 1 && !done[row][col - 1]){
                     mat[row][col - 1] = mat[row][col] + 1;
                     done[row][col - 1] = true; 
                     queue.offer(new int[]{row,col-1});
-                    }
                 }
-                if(nr < mat.length && mat[nr][col] == 1){
-                    if(!done[nr][col]){
+                if(nr < mat.length && mat[nr][col] == 1 && !done[nr][col]){
                     mat[nr][col] = mat[row][col] + 1;
                     done[nr][col] = true; 
                     queue.offer(new int[]{nr,col});
-                    }
                 }
-                if(nc < mat[0].length && mat[row][nc] == 1){
-                    if(!done[row][nc]){
+                if(nc < mat[0].length && mat[row][nc] == 1 && !done[row][nc]){
                     mat[row][nc] = mat[row][col] + 1;
                     done[row][nc] = true;
                     queue.offer(new int[]{row,nc});
-                    }
                 }
             }
         }
