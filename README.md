@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/parthsingh1146/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthsingh1146/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthsingh1146/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1472-design-browser-history](https://github.com/parthsingh1146/Leetcode/tree/master/1472-design-browser-history) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/parthsingh1146/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/parthsingh1146/Leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dancing Links
 |  |
 | ------- |
@@ -459,4 +461,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/parthsingh1146/Leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
