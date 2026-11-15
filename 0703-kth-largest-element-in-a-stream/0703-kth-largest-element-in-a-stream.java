@@ -1,6 +1,5 @@
 class KthLargest {
-     PriorityQueue<Integer> pq = new PriorityQueue<>();
-    // Deque<Integer> stack = new ArrayDeque<>();
+    PriorityQueue<Integer> pq = new PriorityQueue<>();
     int size;
     public KthLargest(int k, int[] nums) {
         size = k;
