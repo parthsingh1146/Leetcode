@@ -23,15 +23,12 @@ class Solution {
                 }
             }
             else{
-                while(!maxQ.isEmpty() && !minQ.isEmpty() && nums[maxQ.peekLast()] - nums[minQ.peekLast()] > limit){
-
+                while(nums[maxQ.peekLast()] - nums[minQ.peekLast()] > limit){
                     left++;
-
-                    while(!maxQ.isEmpty() && maxQ.peekLast() < left){
+                    if(maxQ.peekLast() < left){
                         maxQ.pollLast();
                     }
-
-                    while(!minQ.isEmpty() && minQ.peekLast() < left){
+                    if(minQ.peekLast() < left){
                         minQ.pollLast();
                     }
                 }
