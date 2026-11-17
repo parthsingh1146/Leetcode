@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/parthsingh1146/Leetcode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthsingh1146/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parthsingh1146/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/parthsingh1146/Leetcode/tree/master/1472-design-browser-history) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/parthsingh1146/Leetcode/tree/master/1670-design-front-middle-back-queue) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parthsingh1146/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/parthsingh1146/Leetcode/tree/master/1046-last-stone-weight) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parthsingh1146/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthsingh1146/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthsingh1146/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parthsingh1146/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Enumeration
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/parthsingh1146/Leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/parthsingh1146/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parthsingh1146/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parthsingh1146/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1670-design-front-middle-back-queue](https://github.com/parthsingh1146/Leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/parthsingh1146/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/parthsingh1146/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/parthsingh1146/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parthsingh1146/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -481,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parthsingh1146/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parthsingh1146/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
