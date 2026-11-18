@@ -8,7 +8,7 @@ class Solution {
            if(s.charAt(left+1)!=leftChar){
             count++;
            }
-           left = left + 2;
+           left+= 2;
         }
         return count; 
     }
