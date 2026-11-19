@@ -5,22 +5,22 @@ class Solution {
         }
         String prev = countAndSay(n-1);
         StringBuilder ans = new StringBuilder();
-        int lastDigit = prev.charAt(0) - '0'; 
+        char lastChar = prev.charAt(0); 
         int count = 1;
         for(int i = 1;i<prev.length();i++){
-            int curr = prev.charAt(i) - '0';
-            if(curr == lastDigit){
+            char curr = prev.charAt(i);
+            if(curr == lastChar){
                 count++;
             }
             else{
                 ans.append(count);
-                ans.append(lastDigit);
-                lastDigit = curr;
+                ans.append(lastChar);
+                lastChar = curr;
                 count = 1;
             }
         }
         ans.append(count);
-        ans.append(lastDigit);
+        ans.append(lastChar);
         return ans.toString();
     }
     
