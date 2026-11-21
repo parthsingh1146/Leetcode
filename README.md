@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/parthsingh1146/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/parthsingh1146/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/parthsingh1146/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/parthsingh1146/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/parthsingh1146/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/parthsingh1146/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/parthsingh1146/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3536-maximum-product-of-two-digits](https://github.com/parthsingh1146/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/parthsingh1146/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/parthsingh1146/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/parthsingh1146/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parthsingh1146/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/parthsingh1146/Leetcode/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/parthsingh1146/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/parthsingh1146/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/parthsingh1146/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/parthsingh1146/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthsingh1146/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parthsingh1146/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthsingh1146/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/parthsingh1146/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/parthsingh1146/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthsingh1146/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthsingh1146/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
