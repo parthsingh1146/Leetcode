@@ -20,7 +20,7 @@ class Solution {
         return result;
     }
     int heightOfTree(TreeNode root){
-        if(root == null){
+        if(root == null || result == false){
             return 0;
         }
         int leftHeight = heightOfTree(root.left);
