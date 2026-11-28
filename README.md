@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/parthsingh1146/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/parthsingh1146/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parthsingh1146/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/parthsingh1146/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/parthsingh1146/Leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/parthsingh1146/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/parthsingh1146/Leetcode/tree/master/0402-remove-k-digits) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/parthsingh1146/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/parthsingh1146/Leetcode/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/parthsingh1146/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/parthsingh1146/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/parthsingh1146/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/parthsingh1146/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/parthsingh1146/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parthsingh1146/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/parthsingh1146/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/parthsingh1146/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/parthsingh1146/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Ordered Set
