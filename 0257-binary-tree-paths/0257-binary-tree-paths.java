@@ -16,8 +16,7 @@
 class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> ans = new ArrayList<>();
-        String str = new String();
-        helper(root,str,ans);
+        helper(root,"",ans);
         return ans;
     }
     void helper(TreeNode root , String str, List<String> ans){
