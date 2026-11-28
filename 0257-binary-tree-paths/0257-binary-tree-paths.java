@@ -29,10 +29,7 @@ class Solution {
             return;
         }
         str = str + "->";
-        // left call
         helper(root.left,str,ans);
-
-        // right call
         helper(root.right,str,ans);
     }
 }
